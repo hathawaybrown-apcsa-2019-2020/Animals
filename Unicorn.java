@@ -5,7 +5,7 @@
  * @author Suzy
  * @version 2019-10-01
  */
-public class Unicorn
+public class Unicorn extends Animal
 {
     public void eat()
     {
