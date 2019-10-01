@@ -5,7 +5,7 @@
  * @author Suzy
  * @version 2019-10-01
  */
-public class panda
+public class panda extends Animal
 {
 public void eat()
     {
