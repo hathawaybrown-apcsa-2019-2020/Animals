@@ -5,7 +5,7 @@
  * @Vedha Muvva
  * @version (2019-10-01)
  */
-public class Dragon
+public class Dragon extends Animal
 {
     // instance variables - replace the example below with your own
     public void eat()
