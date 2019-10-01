@@ -18,9 +18,12 @@ public class AnimalList
     {
         ArrayList<Animal> myList = new ArrayList<Animal>();
         
-        myList.add(new Animal());
-        myList.add(new Animal());
-        myList.add(new Animal());
+        myList.add(new Raccoon());
+        myList.add(new Buffalo());
+        myList.add(new Isajelly());
+        myList.add(new Pig());
+        myList.add(new Blobfish());
+        myList.add(new Dragon());
         
         for (Animal a : myList)
         {

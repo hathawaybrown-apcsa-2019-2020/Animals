@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Isajelly
+public class Isajelly extends Animal
 {
     public void eat()
     {
