@@ -24,6 +24,7 @@ public class AnimalList
         myList.add(new Pig());
         myList.add(new Blobfish());
         myList.add(new Dragon());
+        myList.add(new panda());
         
         for (Animal a : myList)
         {
